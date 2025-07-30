@@ -456,7 +456,7 @@ Click Install to download and install the Community Applications plugin=Нати
 
 ; Note: April 21, 2025 - 5 missing translations
 Clear Flag=Прибрати прапор
-Additional information may be within Tools, PHPSettings - View Log=Додаткову інформацію можна знайти в розділі Інструменти, Налаштування PHPSettings - Переглянути Журнал
+Additional information may be within Tools, PHPSettings - View Log=Додаткову інформацію можна знайти в розділі «Інструменти», PHP Settings – Переглянути журнал
 External Link=Зовнішнє Посилання
 Clicking OK will take you to a 3rd party website not associated with Limetech=Натискання кнопки «ОК» переведе вас на сторонній веб-сайт, не пов’язаний з Limetech.
 Install another instance=Встановити інший екземпляр
