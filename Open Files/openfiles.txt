@@ -10,7 +10,7 @@ An entry for bash means you have a terminal session open with the working direct
 If smbd is listed, it means that another computer has a samba share mounted=Якщо smbd вказано в списку, це означає, що на іншому комп’ютері змонтовано спільну папку samba
 Files open by Samba usually wont prevent array shutdown=Файли, відкриті за допомогою Samba, зазвичай не запобігають вимкненню масиву
 No open files=Немає відкритих файлів
-Kill=Вбити
+Kill=Примусово Завершити
 Command timed out=Час очікування команди минув
 Cannot get list of open files=Не вдається отримати список відкритих файлів
 ;
