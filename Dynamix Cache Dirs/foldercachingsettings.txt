@@ -137,7 +137,7 @@ User defined options=Визначені користувачем парамет�
 :end
 
 ; Note: December 8, 2024 - 4 missing translations
-Memory available to the cache_dirs script increase if it dies=Memory available to the cache_dirs script (increase if it dies)
-Timeout during disk-idle period=
-Timeout during initial startup or less-idle period=
-Timeout when all directories have been cached=
+Пам'ять, доступна для скрипта cache_dirs, збільшитися, якщо він завершує роботу = Пам'ять, доступна для скрипта cache_dirs (збільшення, якщо він завершує роботу)
+Timeout during disk-idle period=Тайм-аут під час періоду простою диска
+Timeout during initial startup or less-idle period=Тайм-аут під час початкового запуску або періоду меншого простою
+Timeout when all directories have been cached=Тайм-аут після кешування всіх каталогів
