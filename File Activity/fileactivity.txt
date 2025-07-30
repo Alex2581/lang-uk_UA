@@ -35,8 +35,8 @@ Enable for Cache and Pool Disks=Увімкнути для дисків кешу 
 :end
 
 :file_activity_display_events_plug:
-> This is the number of file events shown on disks and shares from the File Activity log for each share or disk.
+> Це кількість подій з файлами, показаних на дисках і спільних ресурсах у журналі файлової активності для кожного ресурсу або диска..
 :end
 
 ; Note: December 8, 2024 - 1 missing translations
-Display Events=
+Display Events=Відображення подій
