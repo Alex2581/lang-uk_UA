@@ -241,7 +241,7 @@ ZFS Volume=Том ZFS
 :end
 
 ; Note: April 21, 2025 - 21 missing translations
-Check the syslog for details=Перевірте syslog для отримання додаткової інформаці
+Check the syslog for details=Перевірте syslog для отримання додаткової інформації
 Choose NFS Server=Виберіть NFS-сервер
 Choose SMB Server=Виберіть SMB-сервер
 Failed to get data to refresh page=Не вдалося отримати дані для оновлення сторінки
