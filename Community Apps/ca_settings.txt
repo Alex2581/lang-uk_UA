@@ -21,7 +21,7 @@ This unlocks some extra features within CA generally only used by developers Not
 Support Thread=Підтримка Теми
 
 ; Note: April 21, 2025 - 4 missing translations
-Allow install of second instance=
-Mouse wheel threshold=
-If you tilt the mouse wheel left or right, the browser returned value will change Set the threshold to the value returned Note that different browsers and operating systems may return different values=
-This is a global value for all devices If it causes issues, then disable Mouse Wheel Page Changes=
+Allow install of second instance=Дозволити встановлення другого екземпляра
+Mouse wheel threshold=Поріг коліщатка миші
+If you tilt the mouse wheel left or right, the browser returned value will change Set the threshold to the value returned Note that different browsers and operating systems may return different values=Якщо нахилити коліщатко миші ліворуч або праворуч, повернене браузером значення зміниться. Встановіть поріг на повернене значення. Зверніть увагу, що різні браузери та операційні системи можуть повертати різні значення.
+This is a global value for all devices If it causes issues, then disable Mouse Wheel Page Changes=Це глобальне значення для всіх пристроїв. Якщо це спричиняє проблеми, вимкніть зміну сторінок за допомогою коліщатка миші.
