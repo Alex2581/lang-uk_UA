@@ -1,4 +1,4 @@
-Age Days=Вік Днів
+Age Days=Кількість Днів
 Array=Масив
 Array is stopped=Масив зупинено
 Browse the Share Recycle Bin=Переглянути Кошик спільного використання
