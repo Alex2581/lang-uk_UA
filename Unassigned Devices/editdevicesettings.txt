@@ -1,19 +1,19 @@
 Abort Device Script=Перервати Сценарій Пристрою
-Attach=Аттач
+Attach=Приєднати
 Attach This Disk=Приєднати цей Диск
-Attaching=Прикріплення
+Attaching=Приєднання
 Automount=Автоматичне монтування
 Click to select file or click Default button for the Device Script File=Клацніть, щоб вибрати файл, або натисніть кнопку за замовчуванням для файлу сценарію пристрою
 Default=За замовчуванням
 Delete Device Script File=Видалити файл сценарію пристрою
 Detach=Від'єднати
-Detach This Disk=Від'єднати цей диск
+Detach This Disk=Від'єднати цей Диск
 Detaching=Від'єднання
-Device Script=Сценарій пристрою
+Device Script=Сценарій Пристрою
 Device Script content=Вміст сценарію пристрою
 Disable Mount and Unmount Button=Вимкнути кнопку монтувати та демонтувати
 Disable Mount Button=Вимкнути кнопку монтування
-Disk Name=Ім'я диска
+Disk Name=Ім'я Диска
 Disk Serial=Послідовний диск
 Edit Device Script=Редагувати сценарій пристрою
 Enter Device Script File Name=Введіть назву файлу сценарію пристрою
@@ -44,7 +44,7 @@ Source=Джерело
 Unassigned Devices Settings=Непризначені налаштування пристроїв
 Undo your changes since last Save=Скасувати зміни з моменту останнього збереження
 User Script=Сценарій користувача
-Volume=Обсяг
+Volume=Том
 ZFS Volume=Том ZFS
 
 ;

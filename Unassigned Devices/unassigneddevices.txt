@@ -156,9 +156,9 @@ ZFS Pool Name=Назва пулу ZFS
 ZFS Volume=Том ZFS
 
 :unassgned_devices_switches_plug:
-> Turn on the **Disks** switch to change the web page to show disk devices. Turn off the **Disks** switch to change the web page to hide disk devices.
+> Увімкніть перемикач **Диски**, щоб на веб-сторінці відображалися дискові пристрої. Вимкніть перемикач **Диски**, щоб на веб-сторінці дискові пристрої не відображалися.
 >
-> Turn on the **Shares** switch to change the web page to show shares. Turn off the **Shares** switch to change the web page to hide shares.
+> Увімкніть перемикач **Поширені ресурси**, щоб на веб-сторінці відображалися спільні ресурси. Вимкніть перемикач **Поширені ресурси**, щоб приховати спільні ресурси.
 >
 > Turn on the **Historical** switch to show Historical disk devices. Turn off **Historical** switch to switch back to not show Historical disk devices.
 >
@@ -241,24 +241,24 @@ ZFS Volume=Том ZFS
 :end
 
 ; Note: April 21, 2025 - 21 missing translations
-Check the syslog for details=
-Choose NFS Server=
-Choose SMB Server=
-Failed to get data to refresh page=
-Historical Unassigned Devices=
-If SMB shares do not show, check your credentials=
-No script file to execute=
-Remote Shares online status will be reset=
+Check the syslog for details=Перевірте syslog для отримання додаткової інформації
+Choose NFS Server=Виберіть NFS-сервер
+Choose SMB Server=Виберіть SMB-сервер
+Failed to get data to refresh page=Не вдалося отримати дані для оновлення сторінки
+Historical Unassigned Devices=Історичні Непризначені Пристрої
+If SMB shares do not show, check your credentials=Якщо SMB-ресурси не відображаються, перевірте свої облікові дані
+No script file to execute=Немає файлу скрипта для виконання
+Remote Shares online status will be reset=Стан доступності віддалених ресурсів буде скинуто
 Script is already running=
-Search For Servers=
-Script Log=
-Serial Number Mount Point=Serial Number (Mount Point)
-Show/Hide Historical Unassigned Devices=
-Show/Hide SMB/NFS/ISO Shares=
-Show/Hide Unassiged Disk Devices=
-Timeout: Failed to get unassigned devices information - check the syslog=
-Unassigned Devices Settings=
-Unassigned Disk Devices=
-View NFS Script Log=
-View SMB Script Log=
-You may need to enter credentials to list the shares=
+Search For Servers=Пошук Серверів
+Script Log=Журнал Скрипта
+Serial Number Mount Point=Серійний номер (Точка Монтування)
+Show/Hide Historical Unassigned Devices=Показати/Приховати історичні Непризначені Пристрої
+Show/Hide SMB/NFS/ISO Shares=Показати/Приховати SMB/NFS/ISO ресурси
+Show/Hide Unassiged Disk Devices=Показати/Приховати непризначені Дискові Пристрої
+Timeout: Failed to get unassigned devices information - check the syslog=Тайм-аут: Не вдалося отримати інформацію про непризначені пристрої – перевірте журнал syslog
+Unassigned Devices Settings=Налаштування Непризначених Пристроїв
+Unassigned Disk Devices=Непризначені дискові пристрої
+View NFS Script Log=Переглянути журнал Скрипта NFS
+View SMB Script Log=Переглянути журнал Скрипта SMB
+You may need to enter credentials to list the shares=Можливо, потрібно ввести облікові дані для перегляду спільних ресурсів

@@ -7,4 +7,4 @@ Low temperature threshold=Low temperature threshold
 Minimum PWM value=Мінімальне значення PWM
 PWM controller=PWM контролер
 PWM fan=PWM вентилятор
-Refresh interval=Refresh interval
+Refresh interval=Інтервал оновлення
