@@ -136,14 +136,14 @@ WebUI=WebUI
 Writable=Можливий запис
 
 ; Note: April 21, 2025 - 23 missing translations
-3rd Party=
-Addresses=
-available=
-Compose=
-Container IP=
-Container not found Try reloading this page to fix=Container not found.  Try reloading this page to fix.
-Container not running=
-DERP Relay=
+3rd Party=Третя сторона
+Addresses=Addresses
+available=доступний
+Compose=Compose
+Container IP=Контейнер IP
+Container not found Try reloading this page to fix=Контейнер не знайдено. Спробуйте перезавантажити цю сторінку, щоб виправити це.
+Container not running=Контейнер не працює
+DERP Relay=Реле DERP
 Error gathering Tailscale information from container=
 Exit Node=
 Expired RenewDisable key expiry=Expired! Renew/Disable key expiry!
