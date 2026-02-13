@@ -53,8 +53,8 @@ Formatting=Formatting
 Free=Вільно
 from disk=з диска
 Go to Settings->Global Share Settings and set Enable Disk Shares to Auto or Off=Перейдіть до Налаштування->Глобальні налаштування спільних ресурсів та встановіть для параметра «Увімкнути спільні диски» значення «Авто» або «Вимкнуто».
-Historical=Історичний
-Historical Device is=Історичний пристрій є
+Historical=Історичні
+Historical Device is=Історичний пристрій:
 Identification=Ідентифікація
 If the IP address of the server shows in the list after searching, your DNS server is not resolving the name=Якщо IP-адреса сервера відображається в списку після пошуку, ваш DNS-сервер не розпізнає ім’я
 If this disk was pre-cleared, you will remove the pre-clear signature=Якщо цей диск було попередньо очищено, ви видалите підпис попереднього очищення
@@ -160,29 +160,29 @@ ZFS Volume=Том ZFS
 >
 > Увімкніть перемикач **Поширені ресурси**, щоб на веб-сторінці відображалися спільні ресурси. Вимкніть перемикач **Поширені ресурси**, щоб приховати спільні ресурси.
 >
-> Turn on the **Historical** switch to show Historical disk devices. Turn off **Historical** switch to switch back to not show Historical disk devices.
+> Увімкніть перемикач **Історичні**, щоб показати історичні дискові пристрої. Вимкніть перемикач **Історичні**, щоб повернутися до режиму, у якому історичні дискові пристрої не відображаються.
 >
-> Click on the <i class="fa fa-refresh"></i> icon to refresh disks and configuration.
+> Натисніть на піктограму <i class="fa fa-refresh"></i> щоб оновити диски та конфігурацію.
 >
-> Click on the <i class="fa fa-gear"></i> icon to go to the UD Settings.
+> Натисніть на піктограму <i class="fa fa-gear"></i> щоб перейти до налаштувань UD.
 >
-> You can spin a disk up or down by clicking on the disk ball <i class='fa fa-circle orb green-orb'></i>or <i class='fa fa-circle orb grey-orb'></i>indicator.  Applies to version 6.9 RC2 and later only.
+> Ви можете розкрутити або зупинити диск, натиснувши на індикатор у вигляді кульки <i class='fa fa-circle orb green-orb'></i>or <i class='fa fa-circle orb grey-orb'></i>indicator.  Це працює лише у версії 6.9 RC2 і новіших.
 >
-> Click on the <i class="fa fa-gears"></i> icon to go to the Device Settings configuration.  This is where you configure a device script and certain device characteristics.
+> Натисніть на піктограму <i class="fa fa-gears"></i>, щоб перейти до конфігурації Налаштування пристрою. Тут налаштовуються скрипт пристрою та певні характеристики пристрою.
 > 
-> Click on the <i class="icon-nvme"></i> or <i class="fa fa-hdd-o"></i> icon to display syslog entries specific to this disk device.
+> Натисніть на піктограму <i class="icon-nvme"></i> або <i class="fa fa-hdd-o"></i>, щоб відобразити записи syslog, що стосуються саме цього дискового пристрою.
 >
-> **Mount Point icons:**
+> **Піктограми точки монтування:**
 >
-> When the <i class='fa fa-pencil'></i> icon shows next to the mount point it indicates the mount point can be changed when the mount point is clicked.
+> Якщо поруч із точкою монтування показується піктограма <i class='fa fa-pencil'></i>, це означає, що точку монтування можна змінити — для цього натисніть на саму точку монтування.
 >
-> When the <i class='fa fa-external-link'></i> icon shows next to the mount point it indicates the clicking on the mount point will browse the files on that partition.
+> Якщо поруч із точкою монтування показується піктограма <i class='fa fa-external-link'></i>, це означає, що натискання на точку монтування відкриє перегляд файлів на цьому розділі.
 >
-> Click on the <i class="fa fa-align-left"></i> icon to display the device script log.  This is the log specific to the device script.
+> Натисніть на піктограму <i class="fa fa-align-left"></i>, щоб показати журнал скрипта пристрою. Це журнал, який стосується саме скрипта пристрою.
 >
-> Click on the <i class="fa fa-check"></i> icon to perform a file system check.  BTRFS and ZFS file systems need to be mounted to do a file check.  The file check on BTRFS and ZFS file systems is a scrub.
+> Натисніть на піктограму <i class="fa fa-check"></i>, щоб виконати перевірку файлової системи. Файлові системи BTRFS і ZFS потрібно змонтувати, щоб виконати перевірку. Перевірка для BTRFS і ZFS — це scrub.
 >
-> Click on the <i class="fa fa-flash"></i> icon to run your device script as if it was hot plugged.  This only applies to disk devices.
+> Натисніть на піктограму <i class="fa fa-flash"></i>, щоб запустити скрипт пристрою так, ніби пристрій був підключений «гарячим» підключенням (hot plug). Це стосується лише дискових пристроїв.
 :end
 
 :unassigned_devices_general_help_plug:
@@ -249,7 +249,7 @@ Historical Unassigned Devices=Історичні Непризначені При
 If SMB shares do not show, check your credentials=Якщо SMB-ресурси не відображаються, перевірте свої облікові дані
 No script file to execute=Немає файлу скрипта для виконання
 Remote Shares online status will be reset=Стан доступності віддалених ресурсів буде скинуто
-Script is already running=
+Script is already running=Скрипт уже виконується
 Search For Servers=Пошук Серверів
 Script Log=Журнал Скрипта
 Serial Number Mount Point=Серійний номер (Точка Монтування)
